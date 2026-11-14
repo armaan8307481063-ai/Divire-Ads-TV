@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "email": "divireadstv@gmail.com",
+    "name": "Divire Ads TV Administrator",
+    "role": "Super Admin",
+    "avatarUrl": "/logo.jpg",
+    "lastLogin": "2026-11-02T10:43:52.038Z",
+    "notifyOnNewLead": true,
+    "notifyEmail": "divireadstv@gmail.com"
+  },
+  "passwordHash": "divire2025",
+  "resetCode": null,
+  "resetCodeExpiresAt": null
+}

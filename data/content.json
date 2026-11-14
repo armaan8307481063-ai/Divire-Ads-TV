@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "eyebrow": "Marketing Agency",
+    "headlineStart": "Turn Your Brand Into a",
+    "headlineHighlight": "Business",
+    "headlineEnd": "People Remember.",
+    "description": "Creative content, social media growth & strategic marketing for ambitious brands.",
+    "primaryCtaText": "Get Started",
+    "secondaryCtaText": "Chat on WhatsApp",
+    "heroImage": "/src/assets/images/hero_digital_marketing_1791888552925.jpg",
+    "stat1Value": "50+",
+    "stat1Label": "Brands Scaled",
+    "stat2Value": "10x",
+    "stat2Label": "Avg. Engagement ROI",
+    "stat3Value": "24/7",
+    "stat3Label": "Dedicated Support"
+  },
+  "about": {
+    "tagline": "Connecting Through Creativity",
+    "title": "Transforming Local Businesses into Recognized Brands",
+    "description": "Divire Ads TV is a modern digital marketing powerhouse rooted in Kaithal, Haryana. We specialize in high-impact visual storytelling, conversion-driven paid advertising, and organic social media expansion.",
+    "mission": "To empower ambitious businesses with world-class creative production, performance marketing, and measurable revenue growth.",
+    "vision": "To be Haryana’s most trusted growth partner for forward-thinking brands and enterprises.",
+    "experienceYears": "4+",
+    "completedProjects": "120+"
+  },
+  "contact": {
+    "address": "Divire Ads TV, Near Maharaja Palace, Dhand Road, HUDA Sector 20, Kaithal, Haryana 136027, India",
+    "phone": "+91 83074-81063",
+    "whatsapp": "+91 83074-81063",
+    "email": "divireadstv@gmail.com",
+    "workingHours": "Monday–Saturday, 10:00 AM–5:00 PM",
+    "mapLocationTitle": "Divire Ads TV Head Office",
+    "googleMapsUrl": "https://maps.app.goo.gl/YL1wE7CMfU1p3krh7?g_st=ic",
+    "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3463.5042!2d76.422755!3d29.814238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3911e1efb3a33b41%3A0xa4644b9639a81d12!2sKaithal%20Breaking%20tv!5e0!3m2!1sen!2sin!4v1710000000000!5m2!1sen!2sin"
+  },
+  "socialLinks": {
+    "instagram": "https://instagram.com/divireadstv",
+    "whatsapp": "https://wa.me/918307481063?text=Hi%20Divire%20Ads%20TV,%20I%20would%20like%20to%20grow%20my%20brand.",
+    "facebook": "https://facebook.com/divireadstv",
+    "youtube": "https://youtube.com/@divireadstv",
+    "linkedin": "https://linkedin.com/company/divire-ads-tv"
+  },
+  "seo": {
+    "metaTitle": "Divire Ads TV – Connecting Through Creativity | Digital Marketing Agency",
+    "metaDescription": "Divire Ads TV is a premier digital marketing agency in Kaithal, Haryana. Turn your brand into a business people remember with creative content and strategic marketing.",
+    "metaKeywords": "digital marketing kaithal, social media marketing haryana, ads agency, video production, graphic design, SEO",
+    "ogTitle": "Divire Ads TV – Connecting Through Creativity",
+    "ogDescription": "Turn your brand into a business people remember. Premium social media management, performance marketing, and creative production."
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Social Media Management",
+      "shortDesc": "Grow your audience. Boost your presence.",
+      "fullDesc": "End-to-end management of Instagram, Facebook, and LinkedIn. From editorial calendars and carousel designs to community engagement and algorithmic growth strategies.",
+      "iconName": "Share2",
+      "highlighted": true,
+      "order": 1
+    },
+    {
+      "id": "srv-2",
+      "title": "Creative Content Production",
+      "shortDesc": "Scroll-stopping content that gets results.",
+      "fullDesc": "High-definition video reels, product commercial shoots, promotional teasers, and lifestyle graphic assets that capture consumer attention within 3 seconds.",
+      "iconName": "Video",
+      "highlighted": true,
+      "order": 2
+    },
+    {
+      "id": "srv-3",
+      "title": "Google & Meta Paid Ads",
+      "shortDesc": "Targeted ROI campaigns for instant lead flow.",
+      "fullDesc": "Hyper-localized pay-per-click advertising on Meta (Facebook & Instagram) and Google Search to generate high-intent buyer leads and boost retail footfall.",
+      "iconName": "Target",
+      "highlighted": true,
+      "order": 3
+    },
+    {
+      "id": "srv-4",
+      "title": "Brand Identity & Strategy",
+      "shortDesc": "Distinctive logos, messaging, and visual guidelines.",
+      "fullDesc": "Complete corporate identity kits including logo vector assets, color palettes, typography guidelines, and brand positioning roadmaps.",
+      "iconName": "Sparkles",
+      "highlighted": false,
+      "order": 4
+    },
+    {
+      "id": "srv-5",
+      "title": "High-Converting Web Design",
+      "shortDesc": "Fast, responsive, modern business websites.",
+      "fullDesc": "Speed-optimized, mobile-first websites and landing pages engineered specifically for digital marketing conversion and search engine ranking.",
+      "iconName": "Globe",
+      "highlighted": false,
+      "order": 5
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "port-1",
+      "title": "Sharma Sweets Diwali Campaign",
+      "category": "Social Media & Performance Ads",
+      "description": "Scaled holiday sweet gift box pre-orders across 3 city branches with viral regional reels and geo-targeted Instagram ad campaigns.",
+      "client": "Sharma Sweets & Bakers",
+      "imageUrl": "/src/assets/images/hero_digital_marketing_1791888552925.jpg",
+      "resultsMetric": "+320% Festive Sales Revenue",
+      "order": 1
+    },
+    {
+      "id": "port-2",
+      "title": "Aura Luxe Ethnic Wear Launch",
+      "category": "Creative Production & Branding",
+      "description": "Cinematic bridal fashion reels, lookbook photography, and targeted influencer collaboration creating rapid sell-outs of their flagship collection.",
+      "client": "Aura Luxe Boutique",
+      "imageUrl": "/Images/photo-output.jpeg",
+      "resultsMetric": "1.2M Organic Reel Views",
+      "order": 2
+    },
+    {
+      "id": "port-3",
+      "title": "Apex Fitness Membership Drive",
+      "category": "Lead Generation Advertising",
+      "description": "Annual gym membership subscription campaign utilizing testimonial videos and WhatsApp click-to-chat Meta ads.",
+      "client": "Apex Fitness Club",
+      "imageUrl": "/src/assets/images/hero_digital_marketing_1791888552925.jpg",
+      "resultsMetric": "240+ New Paid Memberships",
+      "order": 3
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "clientName": "Rohit Sharma",
+      "clientRole": "Managing Director",
+      "clientCompany": "Sharma Sweets & Bakers",
+      "avatarUrl": "",
+      "quote": "Divire Ads TV transformed our traditional sweets business into a modern digital brand. Their creative reels brought customers from all neighboring towns!",
+      "rating": 5,
+      "featured": true
+    },
+    {
+      "id": "test-2",
+      "clientName": "Simran Kaur",
+      "clientRole": "Founder & Designer",
+      "clientCompany": "Aura Luxe Boutique",
+      "avatarUrl": "",
+      "quote": "The team understands aesthetics better than anyone in our region. Our wedding collection launch was our most profitable month in 6 years.",
+      "rating": 5,
+      "featured": true
+    },
+    {
+      "id": "test-3",
+      "clientName": "Vikram Choudhary",
+      "clientRole": "General Manager",
+      "clientCompany": "Apex Fitness Club",
+      "avatarUrl": "",
+      "quote": "High quality leads on WhatsApp with predictable acquisition costs. Divire Ads TV delivers true return on marketing spend.",
+      "rating": 5,
+      "featured": true
+    }
+  ]
+}

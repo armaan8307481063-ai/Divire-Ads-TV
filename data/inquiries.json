@@ -1,0 +1,140 @@
+[
+  {
+    "id": "divire-1793701315535-vos55",
+    "name": "Pooja Verma",
+    "brandName": "Verma Dental Clinic",
+    "email": "pooja.dental@example.com",
+    "phone": "+91 98132-55441",
+    "services": [
+      "Google & Meta Paid Ads",
+      "Social Media Management"
+    ],
+    "message": "Looking for local patients in Kaithal Sector 20",
+    "status": "New",
+    "createdAt": "2026-11-03T10:21:55.535+00:00",
+    "updatedAt": "2026-11-03T10:21:55.535+00:00"
+  },
+  {
+    "id": "divire-1793700071325-fefbo",
+    "name": "Nikhil",
+    "brandName": "Zealnix",
+    "email": "nichewtff@gmail.com",
+    "phone": "9996703510",
+    "services": [
+      "Social Media Management",
+      "Google & Meta Paid Ads"
+    ],
+    "status": "Contacted",
+    "notes": "Followed up on WhatsApp with service deck",
+    "createdAt": "2026-11-03T10:01:11.325+00:00",
+    "updatedAt": "2026-11-03T10:21:29.349359+00:00"
+  },
+  {
+    "id": "divire-1793614608699-trtaz",
+    "name": "Health Check",
+    "brandName": "Test Brand",
+    "email": "test@divireads.tv",
+    "phone": "+91 99999-99999",
+    "services": [
+      "Social Media Management"
+    ],
+    "status": "New",
+    "createdAt": "2026-11-02T10:16:48.699Z",
+    "updatedAt": "2026-11-02T10:16:48.699Z"
+  },
+  {
+    "id": "divire-1793356261551-irvyw",
+    "name": "Meera Patel",
+    "brandName": "Patel Organic Foods",
+    "email": "meera@patelfoods.in",
+    "phone": "+91 98250-99881",
+    "services": [
+      "Social Media Management",
+      "Google & Meta Ads"
+    ],
+    "message": "We need complete social media branding and performance ads.",
+    "status": "New",
+    "createdAt": "2026-10-30T10:31:01.551Z",
+    "updatedAt": "2026-10-30T10:31:01.551Z"
+  },
+  {
+    "id": "divire-1793356190685-zmhun",
+    "name": "Arjun Verma",
+    "brandName": "Verma Digital Media",
+    "email": "arjun.verma@example.com",
+    "phone": "+91 98765-43210",
+    "services": [
+      "Social Media Management",
+      "Content Creation"
+    ],
+    "message": "Testing Supabase integration submission",
+    "status": "New",
+    "createdAt": "2026-10-30T10:29:50.685Z",
+    "updatedAt": "2026-10-30T10:29:50.685Z"
+  },
+  {
+    "id": "divire-1791889001469-931na",
+    "name": "Aman Preet",
+    "brandName": "Preet Organic Foods",
+    "email": "aman@preetfoods.in",
+    "phone": "+919876543210",
+    "services": [
+      "Social Media Management",
+      "Content Creation"
+    ],
+    "message": "Looking for monthly reels and campaign launch in Haryana",
+    "status": "New",
+    "createdAt": "2026-10-13T10:56:41.469Z",
+    "updatedAt": "2026-10-13T10:56:41.469Z"
+  },
+  {
+    "id": "divire-inq-101",
+    "name": "Rohit Sharma",
+    "brandName": "Sharma Sweets & Bakers",
+    "email": "rohit.sharma@example.com",
+    "phone": "+91 98120-44552",
+    "services": [
+      "Social Media Management",
+      "Google & Meta Ads",
+      "Content Creation"
+    ],
+    "message": "We have 3 retail outlets in Kaithal and Kurukshetra. We want to scale our Instagram following and run targeted Meta ads for festive promotions.",
+    "status": "New",
+    "notes": "High intent local business. Follow up on WhatsApp.",
+    "createdAt": "2026-10-13T06:56:23.145Z",
+    "updatedAt": "2026-10-13T06:56:23.146Z"
+  },
+  {
+    "id": "divire-inq-102",
+    "name": "Simran Kaur",
+    "brandName": "Aura Luxe Boutique",
+    "email": "simran.kaur@example.com",
+    "phone": "+91 94160-88219",
+    "services": [
+      "Content Creation",
+      "Website Design",
+      "SEO and Branding"
+    ],
+    "message": "Launching our designer ethnic wear collection. Need complete visual identity, website, and scroll-stopping reels content.",
+    "status": "Contacted",
+    "notes": "Sent initial service deck and pricing structure. Scheduled call for Wednesday.",
+    "createdAt": "2026-10-12T06:56:23.146Z",
+    "updatedAt": "2026-10-12T22:56:23.146Z"
+  },
+  {
+    "id": "divire-inq-103",
+    "name": "Vikram Choudhary",
+    "brandName": "Apex Fitness Club",
+    "email": "vikram.apex@example.com",
+    "phone": "+91 98960-12345",
+    "services": [
+      "Paid Advertising",
+      "Social Media Management"
+    ],
+    "message": "Need high-converting gym membership lead generation campaigns across Kaithal and Karnal.",
+    "status": "Converted",
+    "notes": "Signed 3-month retainer for Meta Ads and organic Reels management.",
+    "createdAt": "2026-10-10T10:56:23.146Z",
+    "updatedAt": "2026-10-11T10:56:23.146Z"
+  }
+]

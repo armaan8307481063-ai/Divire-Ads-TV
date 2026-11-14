@@ -1,0 +1,51 @@
+[
+  {
+    "id": "act-1793701315535-wck",
+    "title": "New Customer Lead",
+    "description": "Pooja Verma (Verma Dental Clinic) submitted an enquiry for Google & Meta Paid Ads, Social Media Management.",
+    "type": "inquiry",
+    "timestamp": "2026-11-03T10:21:55.535Z"
+  },
+  {
+    "id": "act-1793701289228-kx3",
+    "title": "Lead Status Changed",
+    "description": "Lead from Nikhil (Zealnix) changed from \"New\" to \"Contacted\".",
+    "type": "inquiry",
+    "timestamp": "2026-11-03T10:21:29.228Z"
+  },
+  {
+    "id": "act-1793616232038-3hw",
+    "title": "Admin Profile Updated",
+    "description": "Updated administrator personal profile and notification preferences.",
+    "type": "auth",
+    "timestamp": "2026-11-02T10:43:52.038Z"
+  },
+  {
+    "id": "act-1",
+    "title": "New Lead Submitted",
+    "description": "Rohit Sharma (Sharma Sweets & Bakers) submitted a new enquiry for Social Media Management.",
+    "type": "inquiry",
+    "timestamp": "2026-11-02T06:43:43.534Z"
+  },
+  {
+    "id": "act-2",
+    "title": "Project Status Updated",
+    "description": "Apex Fitness Membership Acquisition Drive marked as Completed.",
+    "type": "project",
+    "timestamp": "2026-11-01T10:43:43.534Z"
+  },
+  {
+    "id": "act-3",
+    "title": "Content Updated",
+    "description": "Homepage working hours updated to 10:00 AM–5:00 PM.",
+    "type": "content",
+    "timestamp": "2026-10-31T10:43:43.534Z"
+  },
+  {
+    "id": "act-4",
+    "title": "Client Added",
+    "description": "Simran Kaur (Aura Luxe Boutique) added as an Active marketing client.",
+    "type": "client",
+    "timestamp": "2026-10-30T10:43:43.534Z"
+  }
+]
